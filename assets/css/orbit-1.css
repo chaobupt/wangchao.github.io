@@ -303,12 +303,7 @@ p {
 .footer .fa-heart {
   color: #fb866a;
 }
-  
-.research{
-  width:320px;
-  height:80px;
-  text-align:center;
-}
+ 
 
 @media (max-width: 767.98px) {
   .sidebar-wrapper {
